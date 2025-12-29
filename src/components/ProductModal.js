@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 
 // IMPORTANT: Replace this with your actual email address
-const YOUR_EMAIL = 'louaikachkouch@gmail.com';
+const YOUR_EMAIL = 'elkesah.brand@gmail.com';
 
 function ProductModal({ product, onClose }) {
   const [mainImage, setMainImage] = useState(null);

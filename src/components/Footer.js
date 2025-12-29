@@ -10,27 +10,16 @@ function Footer() {
         </div>
         <div className="flex gap-12 md:gap-16">
           <div>
-            <h5 className="font-semibold text-sm text-slate-900 uppercase tracking-wide">Shop</h5>
-            <a className="block text-slate-600 hover:text-slate-900 text-sm mt-4 transition-colors" href="#">Outerwear</a>
-            <a className="block text-slate-600 hover:text-slate-900 text-sm mt-3 transition-colors" href="#">Knitwear</a>
-            <a className="block text-slate-600 hover:text-slate-900 text-sm mt-3 transition-colors" href="#">Accessories</a>
-          </div>
-          <div>
             <h5 className="font-semibold text-sm text-slate-900 uppercase tracking-wide">Social</h5>
             <a className="block text-slate-600 hover:text-slate-900 text-sm mt-4 transition-colors" href="#">Instagram</a>
             <a className="block text-slate-600 hover:text-slate-900 text-sm mt-3 transition-colors" href="#">Twitter</a>
             <a className="block text-slate-600 hover:text-slate-900 text-sm mt-3 transition-colors" href="#">TikTok</a>
           </div>
-          <div>
-            <h5 className="font-semibold text-sm text-slate-900 uppercase tracking-wide">Legal</h5>
-            <a className="block text-slate-600 hover:text-slate-900 text-sm mt-4 transition-colors" href="#">Privacy</a>
-            <a className="block text-slate-600 hover:text-slate-900 text-sm mt-3 transition-colors" href="#">Terms</a>
-          </div>
         </div>
       </div>
       <div className="max-w-6xl mx-auto px-6 py-6 flex flex-col sm:flex-row justify-between text-xs text-slate-500 border-t border-slate-200">
-        <span>© 2025 EL KESAH</span>
-        <span>DESIGNED BY HYDROLIC STATION</span>
+        <span>© 2026 EL KESAH</span>
+        <span>POWERED BY HYDROLIC STATION</span>
       </div>
     </footer>
   );
