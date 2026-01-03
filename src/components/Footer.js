@@ -12,7 +12,7 @@ function Footer() {
           <div>
             <h5 className="font-semibold text-sm text-slate-900 uppercase tracking-wide">Social</h5>
             <a className="block text-slate-600 hover:text-slate-900 text-sm mt-4 transition-colors" href="#">Instagram</a>
-            <a className="block text-slate-600 hover:text-slate-900 text-sm mt-3 transition-colors" href="#">Twitter</a>
+            <a className="block text-slate-600 hover:text-slate-900 text-sm mt-3 transition-colors" href="#">Facebook</a>
             <a className="block text-slate-600 hover:text-slate-900 text-sm mt-3 transition-colors" href="#">TikTok</a>
           </div>
         </div>

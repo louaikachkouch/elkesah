@@ -3,7 +3,19 @@ import ProductCard from './ProductCard';
 import ProductModal from './ProductModal';
 
 const products = [
-  { id: 1, name: "Hoodie", price: 80, category: "Outerwear", image: "https://images.unsplash.com/photo-1544022613-e87ca75a784a?q=80&w=1000&auto=format&fit=crop", tag: "New Arrival" }
+  { 
+    id: 1, 
+    name: "Hoodie", 
+    price: 80, 
+    category: "Winter", 
+    image: "https://images.unsplash.com/photo-1544022613-e87ca75a784a?q=80&w=1000&auto=format&fit=crop", 
+    tag: "New Arrival",
+    images: [
+      "https://images.unsplash.com/photo-1544022613-e87ca75a784a?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?q=80&w=1000&auto=format&fit=crop"
+    ]
+  }
 ];
 
 function Shop() {
